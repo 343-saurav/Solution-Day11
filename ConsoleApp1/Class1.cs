@@ -39,6 +39,7 @@ class Class1
             arr[i] = Convert.ToInt32(Console.ReadLine());
         }
         for(int i = 0; i < arr.Length; i++)
+
         {
             if (arr[i] > max1)
             {
