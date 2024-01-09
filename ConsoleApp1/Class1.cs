@@ -98,15 +98,15 @@ class Class1
     }
 
     static void Main (string[] args)
-            {
-        //int[] myNum = [10, 20, 30, 40, 60];
-        //Average(myNum);
-        //int[,] matrix = new int[3, 3];
-        //MatrixSum(matrix);
-        //int[] array = new int[5];
-        //MaximumNum(array);
-        //int[,] matrixColumn = new int[3, 3];
-        //        MatrixSumColumn(matrixColumn);
+    {
+        int[] myNum = [10, 20, 30, 40, 60];
+        Average(myNum);
+        int[,] matrix = new int[3, 3];
+        MatrixSum(matrix);
+        int[] array = new int[5];
+        MaximumNum(array);
+        int[,] matrixColumn = new int[3, 3];
+        MatrixSumColumn(matrixColumn);
         int[,] matrixRow = new int[3, 3];
         MatrixSumRow(matrixRow);
     }

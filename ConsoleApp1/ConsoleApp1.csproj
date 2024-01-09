@@ -7,7 +7,7 @@
 	
     <Nullable>enable</Nullable>
 	
-    <StartupObject>Class1</StartupObject>
+    <StartupObject>ConsoleApp1.Electricity</StartupObject>
   </PropertyGroup>
 
 </Project>
